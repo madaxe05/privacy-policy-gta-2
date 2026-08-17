@@ -4,7 +4,7 @@ _Last updated: July 2026_
 
 ## Overview
 
-GTA Cheats: All Codes ("the app") is a reference tool for GTA cheat codes. This policy explains what information the app collects, what it doesn't, and how the little it does store is handled.
+GTA Cheats: All Codes  is a reference tool for GTA cheat codes. This policy explains what information the app collects, what it doesn't, and how the little it does store is handled.
 
 ## Personal information
 
