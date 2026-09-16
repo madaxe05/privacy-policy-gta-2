@@ -1,51 +1,215 @@
-# Privacy Policy — GTA Cheats: All Codes
+# Privacy Policy — GTA 6 Guide & GTA 5 Cheats
 
-_Last updated: July 2026_
+**Last updated: September 16, 2026**
 
 ## Overview
 
-GTA Cheats: All Codes  is a reference tool for GTA cheat codes. This policy explains what information the app collects, what it doesn't, and how the little it does store is handled.
+GTA 6 Guide & GTA 5 Cheats is an unofficial reference and guide application that provides cheat codes, guides, and related information for Grand Theft Auto games.
 
-## Personal information
+This Privacy Policy explains what information is stored by the app, what information may be collected or shared by third-party services used by the app, and how that information is handled.
 
-The app does not require an account, sign-in, or any personal information (name, email, phone number) to use. No personal information is collected by the app itself.
+By using GTA 6 Guide & GTA 5 Cheats, you acknowledge the practices described in this Privacy Policy.
 
-## Favorites and saved data
+## Accounts and personal information
 
-Your favorited cheats, recently viewed cheats, selected game, platform, search text, and theme preference are stored only on your device using standard local app storage. None of this is uploaded to a server or seen by the developer — it lives entirely on your device and is removed if you clear the app's data or uninstall it.
+GTA 6 Guide & GTA 5 Cheats does not require users to create an account or sign in.
 
-## Advertising
+The app does not directly ask users to provide personal information such as:
 
-The app shows ads using Google's AdMob (Google Mobile Ads SDK). Google and its advertising partners may collect device identifiers (such as an advertising ID) and use them for ad delivery, personalization, and measurement, governed by Google's own privacy policy. You can manage ad personalization through your device's system settings (e.g. "Opt out of Ads Personalization" on Android, "Limit Ad Tracking"/App Tracking Transparency on iOS).
+* Name
+* Email address
+* Phone number
+* Home address
+* Password
+* Date of birth
+
+The developer does not maintain user accounts or a developer-operated database containing this information.
+
+Third-party services used by the app, particularly Google Mobile Ads, may automatically collect certain device and usage information as described below.
+
+## Local app data
+
+Some information used to provide app functionality is stored locally on your device.
+
+This may include:
+
+* Favorited cheats
+* Recently viewed cheats
+* Selected game
+* Selected platform
+* Search preferences or recent searches
+* Theme and display preferences
+* Other app settings and preferences
+
+This locally stored information is not intentionally uploaded to a developer-operated server.
+
+Local data normally remains on your device until you clear the app's data, use an available reset or clear option, or uninstall the app.
+
+## Advertising and Google AdMob
+
+GTA 6 Guide & GTA 5 Cheats displays advertisements using **Google AdMob through the Google Mobile Ads SDK**.
+
+The Google Mobile Ads SDK may automatically collect and share information for purposes including advertising, analytics, ad measurement, and fraud prevention.
+
+This information may include the following categories.
+
+### Approximate location
+
+Google may collect your device's IP address. An IP address may be used to estimate the general or approximate location of the device.
+
+The app does not require precise GPS location for its cheat-code functionality.
+
+### App interactions
+
+Google Mobile Ads may collect information about interactions with the app and advertisements, including information such as:
+
+* App launches
+* Taps
+* Ad interactions
+* Video views
+* Similar usage events
+
+This information may be used for advertising, analytics, measurement, and fraud-prevention purposes.
+
+### Diagnostic information
+
+Google Mobile Ads may collect diagnostic and performance information relating to the app or advertising SDK.
+
+This may include information such as:
+
+* App or SDK launch time
+* Performance information
+* Hang or stability information
+* Energy usage
+* Other diagnostic information
+
+This information may be used to maintain, measure, secure, and improve advertising services.
+
+### Device or other identifiers
+
+Google Mobile Ads may collect and share device or account-related identifiers.
+
+Depending on the device, Android version, user settings, and SDK configuration, this may include identifiers such as:
+
+* Android Advertising ID
+* App Set ID
+* Other app-, device-, or account-related identifiers
+
+These identifiers may be used for advertising, analytics, measurement, and fraud-prevention purposes.
+
+Users may be able to reset or delete their Android Advertising ID through Android system privacy or advertising settings.
+
+## Personalized and non-personalized advertising
+
+Advertising shown in the app may be personalized or non-personalized depending on factors such as:
+
+* Your region
+* Applicable privacy laws
+* Your device settings
+* Advertising consent choices
+* Google advertising settings
+
+Where required, advertising services may request consent or apply restricted advertising behavior.
+
+You can review or change applicable advertising privacy settings through your Android device and Google account settings.
+
+## Data sharing
+
+The app uses Google Mobile Ads to provide advertising.
+
+As part of providing advertising services, data described in this Privacy Policy may be transmitted to and processed by Google and, where applicable, parties involved in delivering, measuring, securing, or operating advertising services.
+
+The developer does not sell personal information directly to third parties.
+
+Third-party processing is subject to the respective service provider's terms and privacy policies.
+
+## Data security and encryption
+
+Data transmitted by the Google Mobile Ads SDK is encrypted in transit using industry-standard Transport Layer Security (TLS).
+
+Although reasonable measures are used by service providers to protect transmitted information, no internet-based service can guarantee absolute security.
 
 ## Analytics and crash reporting
 
-The app does not currently use a dedicated analytics or crash-reporting SDK. Google AdMob may collect its own delivery/measurement data as described above.
+The app does not currently use a separate developer-operated analytics service or dedicated crash-reporting service.
+
+However, Google Mobile Ads may collect app interaction and diagnostic information as part of operating, measuring, securing, and improving its advertising services.
+
+If additional analytics or crash-reporting services are introduced in a future release, this Privacy Policy will be updated where required.
 
 ## Notifications
 
-The app does not currently send push notifications. Notification category toggles in Settings are preference switches only, stored on your device, and are reserved for a future update — they don't transmit anything anywhere today.
+If the installed version of the app provides local notifications, notification preferences may be stored on your device.
 
-## Data storage and retention
+Local notification preferences by themselves are not uploaded to a developer-operated server.
 
-All app data described above is stored locally on your device for as long as the app is installed, or until you use the in-app "Reset favorites", "Clear recently viewed", or "Clear app data" options in Settings.
+If cloud-based push notifications or additional notification services are introduced, this Privacy Policy will be updated to describe any additional data processing where applicable.
 
-## Third-party services
+## External links and third-party services
 
-Google Mobile Ads (AdMob) is the only third-party service integrated into the app. If you tap a link that opens your device's app store or email app, that service's own privacy policy applies to that interaction.
+The app may contain links that open external applications, websites, email applications, app stores, or other third-party services.
 
-## Your rights
+Once you leave GTA 6 Guide & GTA 5 Cheats or interact with an external service, that third party's privacy policy and terms apply.
 
-Because the app itself doesn't collect or store personal information on a server, there's no developer-held personal data to request or delete. You can clear all locally stored preferences at any time from Settings. For questions about Google's advertising data practices, see Google's own privacy policy and ad settings.
+The developer is not responsible for the privacy practices of external websites or services.
+
+## Data retention and deletion
+
+Data stored only on your device may generally be removed by:
+
+* Clearing the app's local data
+* Using available reset or clear options inside the app
+* Uninstalling the app
+
+Because GTA 6 Guide & GTA 5 Cheats does not provide user accounts, there is no developer-hosted user account to delete.
+
+Information collected by Google Mobile Ads is handled and retained according to Google's applicable policies, service configurations, legal requirements, and user privacy settings.
+
+Users may also manage or reset certain advertising identifiers through Android system settings.
 
 ## Children's privacy
 
-The app is not directed at children under 13 and does not knowingly collect personal information from children.
+GTA 6 Guide & GTA 5 Cheats is not specifically directed at children under the age of 13.
 
-## Changes to this policy
+The app does not intentionally request names, email addresses, phone numbers, or other direct personal information from children.
 
-This policy may be updated as the app changes. Continued use of the app after an update means you accept the revised policy.
+Advertising shown through the app is subject to Google Play, Google Mobile Ads, applicable age-related settings, and relevant legal requirements.
+
+## Google services
+
+The app uses Google Mobile Ads / AdMob.
+
+For more information about how Google handles information, users should review Google's Privacy Policy and Google's advertising privacy information.
+
+## Your privacy choices
+
+Depending on your device, location, and applicable law, you may have privacy controls available through Android or your Google account.
+
+These may include controls relating to:
+
+* Advertising ID
+* Ad personalization
+* Privacy and consent choices
+* Google advertising settings
+
+You can also remove locally stored app information by clearing the app's data or uninstalling the app.
+
+## Changes to this Privacy Policy
+
+This Privacy Policy may be updated when the app's features, third-party services, legal requirements, or data-handling practices change.
+
+When significant changes are made, the **Last updated** date at the top of this page will be revised.
+
+Users are encouraged to review this Privacy Policy periodically.
 
 ## Contact
 
-Questions about this policy can be sent to xero.by.suman@gmail.com.
+If you have questions or concerns regarding this Privacy Policy or the app's privacy practices, you may contact:
+
+**Email:** [xero.by.suman@gmail.com](mailto:xero.by.suman@gmail.com)
+
+## Disclaimer
+
+GTA 6 Guide & GTA 5 Cheats is an unofficial fan-made reference application and is not affiliated with, endorsed by, sponsored by, or associated with Rockstar Games, Take-Two Interactive, or their subsidiaries.
+
+All trademarks, game names, logos, and related intellectual property belong to their respective owners.
