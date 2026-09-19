@@ -53,7 +53,7 @@ The app shows banner, interstitial and rewarded ads through **Google AdMob (Goog
 * **Diagnostic information**, such as performance and stability data
 * **Device or other identifiers**, such as the Android Advertising ID or App Set ID
 
-Google uses this for advertising, analytics, ad measurement and fraud prevention, and may use it to personalize ads depending on your region, device settings and Google account settings. You can reset your advertising ID or opt out of ads personalization in your Android settings (Settings > Privacy > Ads). Ads never grant giveaway entries, mission progress or better odds.
+Google uses this for advertising, analytics, ad measurement and fraud prevention, and may use it to personalize ads depending on your region, device settings and Google account settings. You can reset your advertising ID or opt out of ads personalization in your Android settings (Settings > Privacy > Ads). Where the law requires it (for example in the EEA, the UK and some US states), the app shows Google's consent message before any ad is requested, and no ads are requested until you have answered it. You can change your answer at any time from **Settings > Ad privacy choices**, which appears in those regions. Ads never grant giveaway entries, mission progress or better odds.
 
 ### 7. Analytics and configuration (Google Firebase)
 
