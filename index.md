@@ -61,7 +61,7 @@ The app uses Firebase Analytics to record anonymous usage events, such as screen
 
 ### 8. Network checks and IP address
 
-To make Rewards fair, the app checks the time with public time services (timeapi.io and worldtimeapi.org), so your device clock cannot be used to cheat. It also checks for app updates from a small file hosted on GitHub Pages (`madaxe05.github.io`), and loads guide images from the web addresses referenced by guide content. Like any internet request, these services can see your IP address and basic request details. The app does not send them your name, email or anonymous ID.
+To make Rewards fair, the app checks the time with public time services (timeapi.io, worldtimeapi.org and the standard time header of Google's servers), so your device clock cannot be used to cheat. It also checks for app updates from a small file hosted on GitHub Pages (`madaxe05.github.io`), and loads guide images from the web addresses referenced by guide content. Like any internet request, these services can see your IP address and basic request details. The app does not send them your name, email or anonymous ID.
 
 ## How we use information
 
